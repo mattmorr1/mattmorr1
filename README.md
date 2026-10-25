@@ -11,9 +11,9 @@ building tools for ai agents that balance safety with tangible utility. when i'm
 
 **previous:**
 
-- software / ml engineer intern @ [deeptempo](https://www.deeptempo.ai/) - network detection and response model and harness development
-- data science intern @ [smartesq](https://smartesq.ai/) - automating legal for private fund formation
+- software / ml engineering @ [deeptempo](https://www.deeptempo.ai/) - network detection and response model and harness development
+- data science @ [smartesq](https://smartesq.ai/) - automating legal for private fund formation
 
 ---
 
-[linkedin](https://www.linkedin.com/in/mattmorr/) · [instagram](https://www.instagram.com/mattmo.rris/) · mattmorr@bu.edu
+[linkedin](https://www.linkedin.com/in/mattmorr/) · [instagram](https://www.instagram.com/mattmo.rris/) · matt@mattmorr.com
