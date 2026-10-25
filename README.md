@@ -1,6 +1,6 @@
 # hey, its matt!
 
-building tools for ai agents that balance safety with tangible utility. when i'm not engineering, im most likely at the gym, cycling, or plotting my next adventure.
+building tools for ai agents that balance safety with tangible utility. when i'm not engineering, im most likely sipping coffee, cycling, or plotting my next adventure.
 
 ---
 
